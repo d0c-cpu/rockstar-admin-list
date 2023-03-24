@@ -15,6 +15,7 @@ eldorado365 | 209260788 | GTA Online  | Unknown | Rockstar India
 BinnyAndTheJets | 201693153 | GTA Online | GTA Online + Cheater monitoring + Game bug testing | Dev
 RollingBuffalo | 211750362 | GTA Online | cheater monitoring | None
 ScaryArmadillo | 211702584 | GTA Online | cheater monitoring | None
+Frakaan | 10833148 | GTA Online | Game bug testing | none
 MrOrange619 | 211532217 | GTA Online | cheater monitoring | None
 Fortune_Cukie | 24037237 | GTA Online | cheater monitoring | None
 Laurie_Williams | 77817603 | GTA Online | cheater monitoring | None |
@@ -50,6 +51,7 @@ Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing 
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
 Tamehippo | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 Thrillhouse12 | 205951017 | GTA Online |  Cheater monitoring + Game bug testing | None
+FumbledPlumbus | 160434087 | GTA Online | Cheater monitoring + Game bug testing | SweetPlumbus? 
 LazingLion | 89705641 | GTA Online | Unknown | None
 KorruptUserDayta | 179848153 | GTA Online | Unknown | None
 LivelyCommanderS | 193975449 | GTA Online | Unknown | None
