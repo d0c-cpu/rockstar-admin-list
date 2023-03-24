@@ -51,7 +51,7 @@ Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing 
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
 Tamehippo | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 Thrillhouse12 | 205951017 | GTA Online |  Cheater monitoring + Game bug testing | None
-FumbledPlumbus | 160434087 | GTA Online | Cheater monitoring + Game bug testing | SweetPlumbus? 
+FumbledPlumbus | 160434087 | GTA Online | Cheater monitoring + Game bug testing | None 
 LazingLion | 89705641 | GTA Online | Unknown | None
 KorruptUserDayta | 179848153 | GTA Online | Unknown | None
 LivelyCommanderS | 193975449 | GTA Online | Unknown | None
